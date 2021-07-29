@@ -1,4 +1,3 @@
-apt install libsodium-dev libsecp256k1-dev libgmp-dev
 mkdir -p ~/.streamlit/
 # shellcheck disable=SC2028
 echo "\
